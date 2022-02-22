@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the city ministers letter from his country friend</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25586</idno>
+            <idno type="STC">Wing A3400</idno>
+            <idno type="STC">ESTC R1145</idno>
+            <idno type="EEBO-CITATION">11948005</idno>
+            <idno type="OCLC">ocm 11948005</idno>
+            <idno type="VID">51350</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51350)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the city ministers letter from his country friend</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford? :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb n="1" facs="tcp:51350:1" rendition="simple:additions"/>
+            <head>An Anſwer TO THE CITY MINISTERS LETTER FROM HIS COUNTRY FRIEND.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT is not for me now to acknowledge my private Debt to you for the favour of your Letter, ſince the publick is as much concern'd in it as I: and if I may judge of all by the compaſs of my Neighbourhood and Acquaintance, I may aſſure you, they are not inſenſible of your Obligation, though they are ignorant of the Author.</p>
+            <p>The Country as far as my Intelligence rea<g ref="char:EOLhyphen"/>ches, has followed the Example of the City, and refuſed to read the Declaration of Indul<g ref="char:EOLhyphen"/>gence according to a certain Order ſaid to be the Kings, which we in the Country can ſcarce believe to be His. For it has neither been ſignified to the Ordinaries according to the uſual manner, nor could thoſe that diſper<g ref="char:EOLhyphen"/>ſed it give any Account whence it came to them. I have heard indeed that an Act of Council concerning it has been publiſhed in the <hi>Gazette,</hi> which I never ſaw, and if I had, I ſhould ſcarce have thought Authentick: for I always took that Paper as for its Authority, to have been all of a piece, and that we were no more bound to take notice of any Order pub<g ref="char:EOLhyphen"/>liſhed there under any penalty, then we are to believe all the News from <hi>Poland</hi> or <hi>Conſtan<g ref="char:EOLhyphen"/>tinople.</hi> Nay though this Order had come to us in due form, yet had we had great reaſon to ſuſpect ſomething of ſurreption and ſurprize upon his Majeſty in this matter, and that it could not proceed from his Majeſtys free and full conſent; for we cannot yet forget his re<g ref="char:EOLhyphen"/>peated profeſſions of kindneſs to us, and of ſatisfaction in our Principles and Duty: and having done nothing ſince which might forfeit his good Opinion, we are unwilling to believe that it is His Majeſties own mind and pleaſure to load us with ſuch an Order, as we cannot execute with any congruity, ſafety or good conſcience. For</p>
+            <pb n="2" facs="tcp:51350:2"/>
+            <p n="1">I. As to his Majeſties Declaration, We of all his Majeſties Subjects are the leaſt concern'd in it; and with all duty be it ſpoken, we cannot ſee, that our legal Eſtabliſhment re<g ref="char:EOLhyphen"/>ceives any Addition by this Declaration. For there are yet, thanks be to God, no Penal Laws to which our Congregations are obnoxi<g ref="char:EOLhyphen"/>ous, and therefore we do not ſtand in need of any Toleration: Yet it is upon us onely, that the Reading of it is impoſed. An Act which cannot well be conſtrued otherwiſe than as a ſolliciting and tempting our own people to forſake our Communion. If this Declaration muſt needs be read in any Religi<g ref="char:EOLhyphen"/>ous Aſſemblies, in reaſon ſurely it ſhould be in thoſe, that wholely ow their ſubſiſtence to it. It would better have become the <hi>Roman</hi> than the <hi>Proteſtant</hi> Chappels. But in the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Church <hi>Indulgence</hi> hath another ſignifi<g ref="char:EOLhyphen"/>cation; and belongs to thoſe only that fre<g ref="char:EOLhyphen"/>quent their Churches, but not to ſuch as leave them: for with them this is the only ſin that is not capable of Indulgence. But the Prieſts deſire to be excus'd, leſt while they proclaim Toleration to others they bring an Interdict upon themſelves. Or why I pray, was not Father <hi>Pen</hi> Ordered to publiſh it in his Meet<g ref="char:EOLhyphen"/>ings? Or the worthy Mr. <hi>Lob,</hi> the reputed Father of this Project; why had not he the benefit of his own Invention, and a Patent for being the ſole Publiſher of it within his own Pound? Or why was not my <hi>Lord Mayors</hi> private and elect Congregation thought wor<g ref="char:EOLhyphen"/>thy of ſo great a grace? Surely it is not to draw upon us the envy of the Diſſenters, that the honour of publiſhing this Declaration is impos'd upon us alone, when it belongs to all other Communions in the Kingdom except our own: and if we refuſe it, I hope it will be imputed to our Modeſty, for we are not am<g ref="char:EOLhyphen"/>bitious of being impertinent or buſie-bodies in other mens matters.</p>
+            <p>A certain perſon much greater than he de<g ref="char:EOLhyphen"/>ſerves, but perhaps not ſo high, is ſaid to have uſed the Words of <hi>Rabſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>keh</hi> upon this occa<g ref="char:EOLhyphen"/>ſion, <hi>That the Church of</hi> England <hi>Clergy ſhould Eat their own Dung.</hi> Iſa. 36.12. This ſen<g ref="char:EOLhyphen"/>tence might better have become a Meſſenger of the King of <hi>Aſſyria,</hi> than a pretended Counſellor of our own Prince, though ſome make a queſtion to which King he belongs: but God be thanked, we are not yet ſo ſtraitly beſieg'd as to be reduc'd to that extremity, and though by the permiſſion of God, We ſhould be reduc'd to ſo miſerable a condi<g ref="char:EOLhyphen"/>tion, We ſhould I hope, by the grace of God be content to endure that and worſe extremi<g ref="char:EOLhyphen"/>ties if poſſible, rather than Betray or Surrender the City of God. But before that comes it is poſſible that the Throat that belch'd out this Naſty Inſolence, may be ſtopp'd with ſome<g ref="char:EOLhyphen"/>thing which it cannot ſwallow.</p>
+            <p n="2">II. Beſides there are ſome Paſſages in the Declaration, which in Conſcience we cannot Read to our People, though it be in the Kings Name; for among others we are to Read theſe Words: <hi>WE cannot but heartily wiſh as will eaſily be believed, that all the People of our Do<g ref="char:EOLhyphen"/>minions were Members of the Catholick Church.</hi> Our People know too well the <hi>Engliſh</hi> of this, and could not but be ſtrangly ſurpriz'd to hear us tell them, that it would be an acceptable thing to the King, that they ſhould leave the Truth and our Communion, and turn Papiſts. The Wiſh of a King when ſolemnly Declared, is no light inſignificant thing, but has real in<g ref="char:EOLhyphen"/>fluence and effect upon the minds of Men. It was but a Wiſh of <hi>Henry</hi> the Second that cut off <hi>Thomas Becket</hi> then Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury.</hi> Councils and Courts of Juſtice too of<g ref="char:EOLhyphen"/>ten bend to a Kings Wiſhes, though againſt their own Inclinations, as well as againſt their Rule: And can we imagin that they can have no force at all upon the common people? there<g ref="char:EOLhyphen"/>fore we cannot in Conſcience pronounce theſe words in the Ears of the People whoſe Souls are committed to our Charge. For we ſhould hereby lay a ſnare before them, and become their Tempters inſtead of being their Inſtru<g ref="char:EOLhyphen"/>cters; and in very fair and reaſonable conſtru<g ref="char:EOLhyphen"/>ction we ſhall be underſtood to ſollicite them to Apoſtacy, to leave the Truth of the Goſpel,
+<pb n="3" facs="tcp:51350:2"/>for Fables, and the miſtakes of men; a reaſo<g ref="char:EOLhyphen"/>nable and decent Worſhip, for Superſtition and Idolatry; a true Chriſtian Liberty, for the moſt intolerable Bondage both of ſoul and body. If any will forſake our Doctrine and Fellowſhip, which yet is not ours but Chriſts, at their own peril be it: But as for us, We are reſolv'd by the grace of God, to lay no ſtumbling block in their way, nor to be acceſ<g ref="char:EOLhyphen"/>ſary to their ruin, that we may be able to de<g ref="char:EOLhyphen"/>clare our integrity with S. <hi>Paul,</hi> That <hi>we are pure from the blood of all men.</hi>
+            </p>
+            <p n="3">III. In the next place, We are to declare in the Kings name, <hi>That from henceforth the Execution of all, and all manner of Penal Laws, in matters Eccleſiaſtical, for not coming to Church, or not receiving the Sacrament, or for any other Nonconformity to the Religion eſta<g ref="char:EOLhyphen"/>bliſhed, or for, or by reaſon of the exerciſe of R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ligion, in any manner whatſoever, be immedi<g ref="char:EOLhyphen"/>atly Suſpended, and the farther Execution of the ſaid Penal Laws, and every of them is hereby Suſpended.</hi> What! <hi>All,</hi> and <hi>all manner of Laws in matters Eccleſiaſtical?</hi> What the Laws againſt Fornication, Adultery, Inceſt? for theſe are in Eccleſiaſtical matters. What! All Laws againſt Blaſphemy, Prophaneſs, open de<g ref="char:EOLhyphen"/>riſion of Chriſtian Religion? Yet theſe crimes are puniſhable by no other Laws here, than ſuch as have been made in favour of the Eſta<g ref="char:EOLhyphen"/>bliſhed Religion: How ſhall the Lords day be obſerv'd? What ſhall hinder covetous men to Plow and Cart, and follow their ſeveral Trades upon that day? ſince all the Laws, that ſecure this obſervance, &amp; outward countenance of reſpect to the Chriſtian Religion, are by this general expreſſion laid aſide: Beſides theſe words, <hi>for not coming to Church, or not receiving the Sacrament, or for any other Nonconformity to the Religion Eſtabliſhed,</hi> cannot in Conſci<g ref="char:EOLhyphen"/>ence be read by us in our Churches, becauſe they may be a temptation to young unguided people to neglect all manner of Religious Wor<g ref="char:EOLhyphen"/>ſhip, and give them occaſion of depriving themſelves of ſuch opportunities of grace and ſalvation, as theſe Penal Laws did often ob<g ref="char:EOLhyphen"/>lige them to uſe. For being diſcharg'd atten<g ref="char:EOLhyphen"/>dance on our Service, they are left at liberty to be of any Religion or none at all: Nay Chriſtian Religion is by theſe general terms left at diſcretion, as well as the Church of <hi>England.</hi> For men may forſake us to become Jews or Mahometans, or Pagan Idolaters, as well as to be Papiſts or Diſſenters, for any care taken in this Declaration to prevent it. And even of ſuch as pretend to be Chriſtians, there either are or may be ſuch Blaſphemous Sects, ſo diſhonourable to our Common Lord and Maſter, as are incapable of all publick en<g ref="char:EOLhyphen"/>couragement and allowance; for that would involve the Government in the Imputation of thoſe Blaſphemies, and the whole Nation in that curſe and vengeance of God, which ſuch provocations may extort. Wherefore it is not out of any unreaſonable; opinion of our ſelves, nor diſaffection to Proteſtant Diſſenters that we refuſe to publiſh this Indulgence, but out of a tender care of the Souls committed to us, eſpecially thoſe of the weaker ſort, to whom we dare not propoſe an Invitation to Popery, and much leſs any thing that may give counte<g ref="char:EOLhyphen"/>nance or encouragement to Irreligion. It is ſaid indeed, that we are not required to ap<g ref="char:EOLhyphen"/>prove but to read it: To this Sir, you have very well anſwer'd, that Reading was Teach<g ref="char:EOLhyphen"/>ing it, or if it be not ſo abſolutely in the nature of the thing; yet in common Conſtruction, I am affraid it would have been ſo under<g ref="char:EOLhyphen"/>ſtood. But we do not ſtand in need of this Excuſe, for if there be any paſſages in it, that are plain temptations to Popery or Licentiouſ<g ref="char:EOLhyphen"/>neſs; it cannot conſiſt with our duty either to God or the Church to Read them before our People.</p>
+            <p>As for the Diſpenſing Power, and the Oaths and Teſts required to qualifie men for Offices Military and Civil, I muſt leave them to the Conſideration of thoſe who are nearer concern'd, and therefore reaſonably preſum'd to underſtand them better. Nor do I envy his Majeſty the uſe of his Popiſh Subjects, though I do not know what ſervice they may be
+<pb n="4" facs="tcp:51350:3"/>capable of doing more than other men. This Nation has for ſome time made hard ſhift to ſubſiſt without much of their aid, and againſt the wills of ſeveral of them: but now they are become the only neceſſary men, and ſeem to want nothing but Number to fill all places Military and Civil in the Kingdom; in the mean time the Odiouſneſs of their Perſons, and the Inſolence of their Behaviour with their way of menacing of ſtrange things, makes ſome abatement of the merit of their ſervice.</p>
+            <p>Laſtly, The reſpect which we have for His Majeſties Service, will not permit us to Read the Appendix to the Declaration: Where the flower of the Nobility and Gentry of this Kingdom are ſomething hardly reflected on, as Perſons <hi>that will not contribute to the peace and honour of the Nation;</hi> Becauſe they would not conſent to the taking away the Laws againſt Papiſts, that they may be put into a Condition to give us Laws. The Perſons here reflected on, We know to be the chief for Ability and Intereſt, and Inclination to ſerve the King, and therefore cannot do His Maje<g ref="char:EOLhyphen"/>ſty that diſſervice as to be Publiſhers of their diſgrace, and make our ſelves the Inſtruments of alienating from His Majeſty the Affections of his beſt Subjects. Nay we find in our ſelves a ſtrange difficulty to believe that this could come from His Majeſty, who has expe<g ref="char:EOLhyphen"/>rienc'd their faithfulneſs upon ſo many and preſſing Occaſions. This could not well proceed from any but a Stranger to thoſe Ho<g ref="char:EOLhyphen"/>nourable Perſons, and the Nation, and a grea<g ref="char:EOLhyphen"/>ter Stranger to ſhame and good manners; and what have We to do to Publiſh the Venom and Virulency of a Jeſuit?</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year, 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
